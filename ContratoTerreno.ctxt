@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ContratoTerreno
+comment1.params=
+comment1.target=double\ getArea()
+comment2.params=
+comment2.target=double\ getPrecio()
+comment3.params=
+comment3.target=double\ getValorXm2()
+numComments=4

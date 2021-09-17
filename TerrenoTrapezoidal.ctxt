@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TerrenoTrapezoidal
+comment1.params=largo\ largo2\ ancho\ sector
+comment1.target=TerrenoTrapezoidal(double,\ double,\ double,\ java.lang.String)
+comment2.params=largo2
+comment2.target=void\ setLargo2(double)
+comment3.params=
+comment3.target=double\ getLargo2()
+comment4.params=
+comment4.target=double\ getArea()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
